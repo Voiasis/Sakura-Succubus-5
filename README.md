@@ -13,13 +13,13 @@ _Original game_: https://store.steampowered.com/app/1795430/Sakura_Succubus_5/
 
 The VPK install may be really slow.
 
-Here's the quickest way to set the game on your Vita:
-1. Download the VPK on your PC/Device
-2. Extract it like a zip/rar file on a `new folder`
-3. Transfer the folder to your Vita
-4. Open `VitaShell`, select the folder (without opening it) and press TRIANGLE
-5. Scroll down, select `More` and then `Install folder`
-6. Confirm the next 2 windows and....done (in seconds)!
-7. Last step: copy the `game` folder from the original PC game to `ux0:/app/RNPYSS005/`
+Guide to setup and install the game to your Vita:
+
+1. Download the vpk on your PC/Device from [releases](https://github.com/realVezio/Sakura-Succubus-5/releases)
+2. Rename the .vpk to a .zip and extract it
+3. Copy the `game` folder from the original PC game to inside the root of the extracted zip/vpk
+4. Archive the files back to zip
+5. Rename the .zip you just made to .vpk
+6. Install the vpk on your Vita
 
 Created using [Ren'Py PSVita Distribution Tool](https://github.com/SonicMastr/renpy-vita/releases/tag/v1.0)
